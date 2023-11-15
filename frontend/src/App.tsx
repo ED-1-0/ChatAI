@@ -5,8 +5,10 @@ import Login from "./pages/Login";
 import Signup from "./pages/Signup";
 import Chat from "./pages/Chat";
 import NotFound from "./pages/NotFound";
+import { useAuth } from "./context/AuthContest";
 
 function App() {
+
   return (
     <main>
       <Header />
