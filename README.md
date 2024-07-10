@@ -1,2 +1,2 @@
-# ChatAI
- AI Chatbot that can answer any questions.
+# CareAI
+ AI Chatbot that can answer your general health questions
